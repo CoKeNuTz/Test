@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Hekko! </title>
-</head>
-<body>
-<h1> Hekko but smol! </h1>
-</body>
-</html>
